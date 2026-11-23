@@ -2,7 +2,7 @@
 
 A notebook-based LangGraph application that routes a user's request to an SEO blog writer, an X/Twitter writer, or a general conversation handler. The writers decide whether to use Tavily tools, receive their results through graph loops, and produce content with conversation context.
 
-The implementation is in [`notebook/ai-content-assistant.ipynb`](notebook/ai-content-assistant.ipynb). It is organized as a learning exercise with prompts, state definitions, nodes, routing functions, and tests shown separately.
+The implementation is in [`notebook/ai-content-assistant.ipynb`](notebook/ai-content-assistant.ipynb), with separate sections for prompts, state definitions, nodes, routing functions, and tests.
 
 ## Features
 
