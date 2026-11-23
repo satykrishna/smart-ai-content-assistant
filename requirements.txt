@@ -1,0 +1,11 @@
+# Match the Multi_Agent_Travel_Planner notebook environment.
+httpx>=0.27,<1
+langsmith>=0.14.17,<1
+langchain==1.5.0
+langchain-core==1.8.0
+langchain-openai==1.7.4
+langgraph==1.2.21
+pydantic==2.14.1
+python-dotenv==1.2.4
+ipykernel==7.4.0
+ipython==9.17.1
